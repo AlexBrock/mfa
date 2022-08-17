@@ -7,3 +7,6 @@
 [submodule "mfa_squad-three"]
 	path = mfa_squad-three
 	url = git@github.com:AlexBrock/mfa_squad-three.git
+[submodule "mfa_cmn"]
+	path = mfa_cmn
+	url = git@github.com:AlexBrock/mfa_cmn.git

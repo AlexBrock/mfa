@@ -1,0 +1,12 @@
+[submodule "mfa_cmn.git"]
+	path = mfa_cmn.git
+	url = git@github.com:AlexBrock/mfa_cmn.git
+[submodule "mfa_squad-one"]
+	path = mfa_squad-one
+	url = git@github.com:AlexBrock/mfa_squad-one.git
+[submodule "mfa_squad-two"]
+	path = mfa_squad-two
+	url = git@github.com:AlexBrock/mfa_squad-two.git
+[submodule "mfa_squad-three"]
+	path = mfa_squad-three
+	url = git@github.com:AlexBrock/mfa_squad-three.git

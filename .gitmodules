@@ -1,6 +1,3 @@
-[submodule "mfa_cmn.git"]
-	path = mfa_cmn.git
-	url = git@github.com:AlexBrock/mfa_cmn.git
 [submodule "mfa_squad-one"]
 	path = mfa_squad-one
 	url = git@github.com:AlexBrock/mfa_squad-one.git
